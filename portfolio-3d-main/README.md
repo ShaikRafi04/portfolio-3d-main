@@ -5,8 +5,7 @@ A visually immersive and interactive **personal portfolio website frontend**, de
 ---
 
 ## 🔗 Links
-- 🌐 **Live Demo:** [your-live-demo-url.com](https://yash-chauhan.vercel.app)]
-- 👨‍💻 **Author's Portfolio:** [yash-chauhan.vercel.app](https://yash-chauhan.vercel.app )
+- 👨‍💻 **Author's Portfolio:** [shaik-rafi-portfolio]()
 
 ---
 
@@ -39,7 +38,7 @@ Please note that the 3D models used in this project were **purchased from a thir
 ---
 
 ## 👨‍💻 Author
-**Yash Chauhan**
+**Shaik Rafi**
 - GitHub: [@ShaikRafi04](https://github.com/ShaikRafi04)
 - LinkedIn: [shaikrafi04](https://www.linkedin.com/in/shaikrafi04/)
 
