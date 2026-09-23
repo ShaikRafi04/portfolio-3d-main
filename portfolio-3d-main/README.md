@@ -40,7 +40,7 @@ Please note that the 3D models used in this project were **purchased from a thir
 
 ## 👨‍💻 Author
 **Yash Chauhan**
-- GitHub: [@yashchauhan008](https://github.com/Yashchauhan008 )
-- LinkedIn: [yashchauhan](https://www.linkedin.com/in/yashchauhan008 )
+- GitHub: [@ShaikRafi04](https://github.com/ShaikRafi04)
+- LinkedIn: [shaikrafi04](https://www.linkedin.com/in/shaikrafi04/)
 
 ---
