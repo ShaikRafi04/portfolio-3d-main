@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-3d",
+  "version": "1.0.0",
+  "description": "3D Animated Portfolio - Frontend Showcase",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "^6.9.8"
+  }
+}
